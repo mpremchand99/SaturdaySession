@@ -1,3 +1,0 @@
-Hello prem
-Today is 19th Mar 2022
-Today You are taking git topic
